@@ -1,0 +1,88 @@
+.container {
+    position: relative;
+    display: inline-block;
+    width: 500px;
+    height: 220px;
+    background: linear-gradient(rgb(32, 156, 178) 0%, rgb(32, 156, 178) 30%, white 30%, white 100%);
+    margin: 10px;
+    border: 2px solid lightgray;
+    padding: 20px;
+    overflow: hidden; 
+}
+
+.img1 {
+    width: 60px;
+    height: 60px;
+    border: 3px solid lightgray;
+    display: block;
+    float: left;
+    margin: 20px;
+    border-radius: 50%;
+}
+
+.img2 {
+    width: 10px;
+    height: 100%;
+    display: block;
+    margin: 0;
+    float: left;
+    margin-top: 13px;
+    margin-right: 8px;
+}
+
+.img3 {
+    width: 15px;
+    height: 15px;
+    display: block;
+    margin: 0;
+    float: left;
+    margin-right: 10px;
+}
+
+.name {
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    top: 80px;
+    left: 30px;
+}
+.location {
+    position: absolute;
+    text-align: left;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 70px 40px 1px 0px;
+    font-size: 14px;
+    top: 65px;
+    left: 30px;
+}
+.title {
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    top: 160px;
+    left: 30px;
+}
+.title2 {
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    top: 180px;
+    left: 30px;
+}
+.edit {
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    font-family: cursive;
+    top: 210px;
+    left: 30px;
+
+}
+p {
+    font-size: 14px;
+    float: left;
+}

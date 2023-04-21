@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 780px;
+    font-family: cursive;
+}
+.navbar{
+    background-color: #c1c1c1;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 780px;
+}
+h1{
+    margin: 10px 30px;
+}
+.search{
+    border: 2px solid black;
+}
+.login {
+    background-color: royalblue;
+    color: white;
+    padding: 5px 30px;
+    box-shadow: 3px 3px black;
+    margin: 15px 30px;
+    font-family: sans-serif;
+    font-size: medium;
+}
+.row{
+    display: flex;
+    margin: 20px;
+}
+
+.ninjabox1 {
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.ninjabox2 {
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.definition {
+    border: 2px solid black;
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+}

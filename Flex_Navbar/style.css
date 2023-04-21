@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    background-color: #333333;
+    justify-content: space-between;
+    color: white;
+    align-items: center;
+    height: 7vh;
+    padding: 0px 10px;
+    font-family: roboto;
+}
+
+.btn{
+    height: 3vh;
+    box-shadow: 4px 4px black;
+    color: white;
+    background-color: #17a2b8;
+}
+a{
+    text-decoration: none;
+    /* color: inherit; */
+    margin: 10px;
+    color: rgba(255, 255, 255, .5);
+}
+.active{
+    color: white;
+}

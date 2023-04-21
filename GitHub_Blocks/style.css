@@ -1,0 +1,51 @@
+.container{
+    width: 710px;
+    height: 730px;
+    background-color: #fafafe;
+    overflow: hidden;
+    display: block;
+}
+img{
+    max-height: 170px;
+}
+.top-line{
+    width:710px;
+    height:200px;
+    background-color: #53bfea;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+.second-line{
+    width:710px;
+    height:200px;
+    background-color: rgb(216, 161, 170);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.third-line{
+    width:710px;
+    height:200px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.advertisement{
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 12px;
+    }
+h1{
+    font-size: 45px;
+    font-family: sans-serif;
+    color: #484855;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
